@@ -1,0 +1,14 @@
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\bin\Debug\net8.0\dersBilgiSistemi.exe
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\bin\Debug\net8.0\dersBilgiSistemi.deps.json
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\bin\Debug\net8.0\dersBilgiSistemi.runtimeconfig.json
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\bin\Debug\net8.0\dersBilgiSistemi.dll
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\bin\Debug\net8.0\dersBilgiSistemi.pdb
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\dersBilgiSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\dersBilgiSistemi.AssemblyInfoInputs.cache
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\dersBilgiSistemi.AssemblyInfo.cs
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\dersBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\dersBilgiSistemi.dll
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\refint\dersBilgiSistemi.dll
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\dersBilgiSistemi.pdb
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\dersBilgiSistemi.genruntimeconfig.cache
+C:\Users\semih\source\repos\dersBilgiSistemi\dersBilgiSistemi\obj\Debug\net8.0\ref\dersBilgiSistemi.dll
